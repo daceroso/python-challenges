@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+
+# Pytest y cobertura
+.pytest_cache/
+htmlcov/
+.coverage
+report.html
+
+# IDEs
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
