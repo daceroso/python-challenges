@@ -25,8 +25,3 @@ def is_palindrome(text):
 
 def is_palindrome_simple(text):
     return text.lower() == text[::-1].lower()
-
-
-print(is_palindrome(""))
-print(is_palindrome_reverse("Otto"))
-print(is_palindrome_reverse("ABCXCV"))
