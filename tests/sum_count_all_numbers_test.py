@@ -9,3 +9,4 @@ from mathematical.exercises.statistics import calc_sum_and_count_all_numbers_div
                           (15, {"sum": 63, "count": 8})])
 def test_calc_sum_and_count_all_numbers_div_by_2_or_7(n, expected):
     assert calc_sum_and_count_all_numbers_div_by_2_or_7(n) == expected
+
