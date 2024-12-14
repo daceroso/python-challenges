@@ -1,6 +1,6 @@
 import pytest
 
-from challenge_string.excercises.number_conversions import is_binary_number, is_binary_number_v2, binary_to_decimal, \
+from challenge_string.exercises.number_conversions import is_binary_number, is_binary_number_v2, binary_to_decimal, \
     hex_to_decimal
 
 

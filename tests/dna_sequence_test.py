@@ -1,6 +1,6 @@
 import pytest
 
-from challenge_string.excercises.dna_sequence import dna_sequence
+from challenge_string.exercises.dna_sequence import dna_sequence
 
 
 @pytest.mark.parametrize("value, expected",

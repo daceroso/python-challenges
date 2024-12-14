@@ -1,6 +1,6 @@
 import pytest
 
-from challenge_string.excercises.no_duplicate_chars import check_no_duplicate_chars
+from challenge_string.exercises.no_duplicate_chars import check_no_duplicate_chars
 
 
 @pytest.mark.parametrize("value, expected", [

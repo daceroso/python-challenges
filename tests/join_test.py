@@ -1,6 +1,6 @@
 import pytest
 
-from challenge_string.excercises.joiner import join, join_with_reduce
+from challenge_string.exercises.joiner import join, join_with_reduce
 
 
 @pytest.mark.parametrize("values, delimiter, expected",

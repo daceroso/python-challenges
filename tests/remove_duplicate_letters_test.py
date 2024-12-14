@@ -1,6 +1,6 @@
 import pytest
 
-from challenge_string.excercises.remove_duplicate_letters import remove_duplicates
+from challenge_string.exercises.remove_duplicate_letters import remove_duplicates
 
 
 @pytest.mark.parametrize("value, expected", [

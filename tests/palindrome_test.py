@@ -1,6 +1,6 @@
 import pytest
 
-from challenge_string.excercises.palindrome import is_palindrome, is_palindrome_simple, is_palindrome_reverse
+from challenge_string.exercises.palindrome import is_palindrome, is_palindrome_simple, is_palindrome_reverse
 
 
 def palindrome_inputs_and_expecteds():

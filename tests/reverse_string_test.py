@@ -1,6 +1,6 @@
 import pytest
 
-from challenge_string.excercises.reverse_string import reverse_string
+from challenge_string.exercises.reverse_string import reverse_string
 
 
 @pytest.mark.parametrize("value, expected", [
