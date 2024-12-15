@@ -24,3 +24,11 @@ def _extract_digits(number):
     print()
 
 print(_extract_digits(123))
+
+def extract_digits(number):
+    digits = []
+    while number > 0:
+        digits.append(number % 10)
+        number = number // 10
+    return digits[::-1]
+
